@@ -9,6 +9,13 @@ author: Harold OS
 last_updated: 2026-06-29
 ---
 
+Comment
+这一章至少还能提升三个层次：
+
+> 增加更多科学论证（例如运动、睡眠、心肺、久坐、长期队列研究，而不是只有观点）。
+> 增加真实故事（你的巴西经历、阿里时期、美的时期，以及第一代全球化中国职业人的案例）。
+> 增加原创框架和插图（例如 Health Pyramid、Body Battery、Athletic Executive、Morning Reset，这些以后都可以画成图，成为 Harold OS 的标志性模型）。
+
 # 第一章：你的身体，是你一生最大的资产
 
 > **Health is not the goal. It is the infrastructure that makes every other goal possible.**
