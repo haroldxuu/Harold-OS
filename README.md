@@ -34,7 +34,7 @@ Harold OS is not written. It is lived.
 Practice → System → Publish → Feedback → Improve
 
 1. Harold 在真实生活中遇到问题。
-2. 与 AI 互动，提炼这些问题背后的思考、原则、框架和操作手册。
+2. 与 AI 互动，提炼这些问题背后的解法、框架，形成手册。
 3. Harold 作为主编进行 Review。
 4. 内容更新到 GitHub。
 5. 通过文章、视频和社区获得反馈。
